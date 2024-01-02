@@ -6,6 +6,10 @@
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <UseWPF>true</UseWPF>
+        <Authors>Karol Żynda</Authors>
+        <Description>Simple log viewer</Description>
+        <Company>Karol Żynda</Company>
+        <EnableWindowsTargeting>true</EnableWindowsTargeting>
     </PropertyGroup>
 
 </Project>
